@@ -1,0 +1,13 @@
+/home/gecko/ESGI/rust/rustlings2/rustlings/target/debug/deps/libnet2-79aa7069b0f803be.rmeta: /home/gecko/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/lib.rs /home/gecko/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/tcp.rs /home/gecko/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/udp.rs /home/gecko/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/socket.rs /home/gecko/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/ext.rs /home/gecko/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/utils.rs /home/gecko/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/sys/unix/mod.rs /home/gecko/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/sys/unix/impls.rs /home/gecko/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/unix.rs
+
+/home/gecko/ESGI/rust/rustlings2/rustlings/target/debug/deps/net2-79aa7069b0f803be.d: /home/gecko/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/lib.rs /home/gecko/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/tcp.rs /home/gecko/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/udp.rs /home/gecko/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/socket.rs /home/gecko/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/ext.rs /home/gecko/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/utils.rs /home/gecko/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/sys/unix/mod.rs /home/gecko/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/sys/unix/impls.rs /home/gecko/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/unix.rs
+
+/home/gecko/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/lib.rs:
+/home/gecko/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/tcp.rs:
+/home/gecko/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/udp.rs:
+/home/gecko/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/socket.rs:
+/home/gecko/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/ext.rs:
+/home/gecko/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/utils.rs:
+/home/gecko/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/sys/unix/mod.rs:
+/home/gecko/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/sys/unix/impls.rs:
+/home/gecko/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/unix.rs:
